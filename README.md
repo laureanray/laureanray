@@ -5,4 +5,4 @@ I like building things during my free time. My interests can vary a lot in a ver
 
 ## Stats
 [![laureanray stats](https://github-readme-stats.vercel.app/api?username=laureanray&count_private=true)](https://github.com/laureanray/github-readme-stats)
-[![laureanray stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laureanray&count_private=true)](https://github.com/laureanray/github-readme-stats)
+[![laureanray stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laureanray&count_private=true&layout=compact)](https://github.com/laureanray/github-readme-stats)
