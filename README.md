@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Laurean Ray. I am a Computer Engineer (BSCpE). Currently working @ Eclaro as a Junior Java Developer. 
+I'm Laurean Ray. I am a Computer Engineering graduate. Currently working @ Eclaro as a Junior Java Developer. 
 I like building things during my free time. My interests can vary a lot in a very short timespan (that's why I have so many unfinished side projects) I like open source sorfwate, linux, new technologies, web, android, and desktop development, also interested in computer vision and machine learning stuffs.
 
 ## Links
