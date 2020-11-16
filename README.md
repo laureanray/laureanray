@@ -7,7 +7,6 @@ I like building things during my free time. My interests can vary a lot in a ver
 Web https://lrnry.xyz  
 YouTube https://youtube.com/laureanray  
 LinkedIn https://linkedin.com/in/laureanray  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laureanray&langs_count=10)]
 
-## Stats
 [![laureanray stats](https://github-readme-stats.vercel.app/api?username=laureanray&count_private=true&theme=dracula)](https://github.com/laureanray/github-readme-stats)    
-[![laureanray stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laureanray&count_private=true&layout=compact&theme=dracula)](https://github.com/laureanray/github-readme-stats)
