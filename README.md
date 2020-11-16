@@ -2,7 +2,7 @@
 
   I like building things during my free time.  
   My interests can vary a lot in a very short timespan. (that's why I have so many unfinished side projects lol) :sweat_smile:  
-  I like open source software, linux, web, android, and desktop development.
+  I like open source software, linux, web, android, and desktop development.  
   I consider myself a **generalist**, which can be my best or worst attribute depending on how you look at it. :wink:  
   
 ![status](https://raw.githubusercontent.com/laureanray/laureanray/master/status%20(1).png) 
