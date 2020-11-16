@@ -8,3 +8,5 @@
   ![laureanray](https://github-readme-stats.vercel.app/api?username=laureanray&hide=stars&hide_border=true&title_color=DCB9B7&bg_color=ffffff)      
 ![connect](https://raw.githubusercontent.com/laureanray/laureanray/master/connect.png)  
   <a href="https://youtube.com/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/yt.png" height="30" width="30"></a>  <a href="https://linkedin.com/in/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/in.png" height="30" width="30"></a>
+
+<span style="color:blue">some *blue* text</span>.
