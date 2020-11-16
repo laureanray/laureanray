@@ -6,7 +6,7 @@ I like open source software, linux, new technologies, web, android, and desktop 
 
 I consider myself a **generalist**, which can be my best or worst attribute depending on how you look at it. :wink:
 
-![social](https://raw.githubusercontent.com/laureanray/laureanray/master/social.png) 
+![social](https://raw.githubusercontent.com/laureanray/laureanray/master/stat.png) 
 
 
-![social](https://raw.githubusercontent.com/laureanray/laureanray/master/stats.png) 
+![social](https://raw.githubusercontent.com/laureanray/laureanray/master/soc.png) 
