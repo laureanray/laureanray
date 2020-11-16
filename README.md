@@ -6,10 +6,11 @@
   I consider myself a **generalist**, which can be my best or worst attribute depending on how you look at it. :wink:
 
 ![stat](https://raw.githubusercontent.com/laureanray/laureanray/master/stat.png) 
-  
+  ![laureanray](https://github-readme-stats.vercel.app/api?username=laureanray&hide=stars)
+
     
 ![social](https://raw.githubusercontent.com/laureanray/laureanray/master/soc.png) 
-    <https://youtube.com/laureanray>
-    <https://linkedin.com/in/laureanray>
-    <https://lrnry.xyz>
-    <laureanraybahala@gmail.com>
+    <https://youtube.com/laureanray>  
+    <https://linkedin.com/in/laureanray>  
+    <https://lrnry.xyz>  
+    <laureanraybahala@gmail.com>  
