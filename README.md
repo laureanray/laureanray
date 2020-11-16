@@ -4,8 +4,8 @@ I'm Laurean Ray. I am a Computer Engineering graduate. Currently working @ Eclar
 I like building things during my free time. My interests can vary a lot in a very short timespan (that's why I have so many unfinished side projects) I like open source software, linux, new technologies, web, android, and desktop development, also interested in computer vision and machine learning stuffs.
 
 ## Links
-Web https://lrny.xyz  
-Youtube https://youtube.com/laureanray  
+Web https://lrnry.xyz  
+YouTube https://youtube.com/laureanray  
 LinkedIn https://linkedin.com/in/laureanray  
 
 ## Stats
