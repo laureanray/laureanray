@@ -8,4 +8,4 @@
 ![status](https://raw.githubusercontent.com/laureanray/laureanray/master/status.png) 
   ![laureanray](https://github-readme-stats.vercel.app/api?username=laureanray&hide=stars&hide_border=true&title_color=DCB9B7&bg_color=ffffff)      
 ![connect](https://raw.githubusercontent.com/laureanray/laureanray/master/connect.png)  
-  [![banner](https://raw.githubusercontent.com/laureanray/laureanray/master/yt.png)](https://youtube.com/laureanray)
+  <img src="https://raw.githubusercontent.com/laureanray/laureanray/master/yt.png" height="20" width="20">
