@@ -8,6 +8,6 @@
 ![status](https://raw.githubusercontent.com/laureanray/laureanray/master/status%20(1).png) 
    ![laureanray](https://github-readme-stats.vercel.app/api?username=laureanray&hide=stars&hide_border=true&title_color=DCB9B7&bg_color=ffffff)      
 ![connect](https://raw.githubusercontent.com/laureanray/laureanray/master/connect%20(1).png)  
-  <a href="https://youtube.com/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/yt%20(1).png" height="30" width="30"></a>  <a href="https://linkedin.com/in/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/in%20(1).png" height="30" width="30"></a>
+  <a href="https://youtube.com/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/yt%20(1).png" height="30" width="30"></a> <a href="https://linkedin.com/in/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/in%20(1).png" height="30" width="30"></a>
 
-asdasd<span style="color:red">some **This is Red Bold.** text</span>
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
