@@ -6,7 +6,7 @@
   I consider myself a **generalist**, which can be my best or worst attribute depending on how you look at it. :wink:  
   
 ![status](https://raw.githubusercontent.com/laureanray/laureanray/master/status%20(1).png) 
-![laureanray](https://github-readme-stats.vercel.app/api?username=laureanray&hide=stars&hide_border=true&icon_color=888&title_color=DCB9B7&bg_color=ffffff&layout=compact&count_private=true&show_icons=true&include_all_commits=true&custom_title=laureanray)  
+![laureanray](https://github-readme-stats.vercel.app/api?username=laureanray&hide=stars&hide_border=true&icon_color=888&title_color=DCB9B7&bg_color=ffffff&layout=compact&count_private=true&show_icons=true&include_all_commits=true&custom_title=laureanray&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laureanray&hide=html,tcl,css&hide_border=true&title_color=DCB9B7&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 ![connect](https://raw.githubusercontent.com/laureanray/laureanray/master/connect%20(1).png)  
   <a href="https://youtube.com/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/yt%20(1).png" height="30" width="30"></a> <a href="https://linkedin.com/in/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/in%20(1).png" height="30" width="30"></a>  
