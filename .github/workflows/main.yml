@@ -23,10 +23,6 @@ jobs:
             plugin_stars: yes
             plugin_stars_limit: 3
             plugin_traffic: yes
-            plugin_pagespeed: yes
-            plugin_pagespeed_detailed: yes                       
-            plugin_pagespeed_screenshot: no                     
-            plugin_pagespeed_url: lrnry.xyz    
             plugin_habits: yes
             plugin_habits_from: 300       
             plugin_habits_days: 14    
