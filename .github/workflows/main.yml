@@ -16,12 +16,20 @@ jobs:
             token: ${{ secrets.METRICS_TOKEN }}
             config_order: base.header, introduction, base.activity+community, base.repositories, followup, languages, projects, activity, stargazers, stackoverflow, achievements, gists, stars
             plugin_languages: yes
-            plugin_stargazers: yes
             plugin_followup: yes
             plugin_achievements: yes
             plugin_achievements_ignored: influencer, follower, maintainer, contributor, explorer, octonaut
-            plugin_gists: yes
             plugin_lines: yes
             plugin_stars: yes
             plugin_stars_limit: 3
             plugin_traffic: yes
+            plugin_pagespeed: yes
+            plugin_pagespeed_detailed: yes                       
+            plugin_pagespeed_screenshot: no                     
+            plugin_pagespeed_url: lrnry.xyz    
+            plugin_habits: yes
+            plugin_habits_from: 300       
+            plugin_habits_days: 14    
+            plugin_habits_facts: yes    
+            plugin_habits_charts: yes     
+            config_timezone: Asia/Manila 
