@@ -1556,7 +1556,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.53368142606864 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.54245633751901 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2078,10 +2078,8 @@
                         15
                     </div>
                     <div class="entry">
-                        <span class="value">
-                            1
-                        </span>
-                        <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value"></span>
+                        <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                         16
                     </div>
                     <div class="entry">
@@ -2133,9 +2131,9 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">
-                                2
+                                1
                             </span>
-                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Sun
                         </div>
                         <div class="entry">
@@ -2185,25 +2183,25 @@
                             <span class="name">
                                 TypeScript
                             </span>
-                            <div class="bar" style="width: 25.088%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 25.263999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
-                                31%
+                                32%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 HTML
                             </span>
-                            <div class="bar" style="width: 24.688%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 24.296000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
-                                31%
+                                30%
                             </span>
                         </div>
                         <div class="entry">
                             <span class="name">
                                 JavaScript
                             </span>
-                            <div class="bar" style="width: 24.096000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 24.263999999999996%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">
                                 30%
                             </span>
@@ -2212,7 +2210,7 @@
                             <span class="name">
                                 Java
                             </span>
-                            <div class="bar" style="width: 4.336%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 5%
                             </span>
@@ -2221,7 +2219,7 @@
                             <span class="name">
                                 ASP.NET
                             </span>
-                            <div class="bar" style="width: 1.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">
                                 2%
                             </span>
@@ -2243,7 +2241,7 @@
                     These metrics include private contributions, timezone Asia/Manila
                 </span>
                 <span>
-                    Last updated Sun, 18 Apr 2021 08:04:33 GMT with lowlighter/metrics@3.7.0
+                    Last updated Sun, 18 Apr 2021 09:03:52 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
