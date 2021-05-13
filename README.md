@@ -1,7 +1,3 @@
-![banner](https://raw.githubusercontent.com/laureanray/laureanray/master/hero.png) 
-
-  
-   
   I like building things during my free time.  
   My interests can vary a lot in a very short timespan. :sweat_smile:  
   I like open source software, linux, web, android, and desktop development.  
