@@ -1659,7 +1659,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="147.92578972024032 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="147.93522888896814 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1969,7 +1969,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>hashicorp/terraform</span>
-                                            <span>starred 13 days ago</span>
+                                            <span>starred 14 days ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -2239,7 +2239,7 @@
                 </div>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 11/08/2021, 13:09 (timezone Asia/Manila) with lowlighter/metrics@3.12.0</span>
+                    <span>Last updated 11/08/2021, 14:13 (timezone Asia/Manila) with lowlighter/metrics@3.12.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
