@@ -9,4 +9,7 @@ Currently learning Golang.
 </p>
 
 # Wakatime
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@laureanray/efa36f65-cf10-4f7b-84f8-a50887c47453.png" /></a>
+[![laureanray's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laureanray)]()
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@laureanray/9584eda9-f873-4f92-ade0-11ef0dc2d664.png" /></a>
+
+
