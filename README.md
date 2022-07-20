@@ -5,7 +5,6 @@
   I use Neovim btw. :wink:  
   
 ![status](https://raw.githubusercontent.com/laureanray/laureanray/master/status%20(1).png)  
-![Metrics](https://github.com/laureanray/laureanray/blob/master/github-metrics.svg)
 
 
 
