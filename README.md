@@ -4,13 +4,8 @@
   I like open source software, linux, web, android, and desktop development   
   I use Neovim btw. :wink:  
   
-![status](https://raw.githubusercontent.com/laureanray/laureanray/master/status%20(1).png)  
-
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laureanray&theme=gruvbox"/>. 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@laureanray/9584eda9-f873-4f92-ade0-11ef0dc2d664.png" /></a>
-
 
 
   <a href="https://youtube.com/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/yt%20(1).png" height="30" width="30"></a> <a href="https://linkedin.com/in/laureanray"><img src="https://raw.githubusercontent.com/laureanray/laureanray/master/in%20(1).png" height="30" width="30"></a>  
