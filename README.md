@@ -6,3 +6,5 @@
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laureanray&theme=gruvbox"/>. 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@laureanray/9584eda9-f873-4f92-ade0-11ef0dc2d664.png" /></a>
+
+<figure><embed src="https://wakatime.com/share/@laureanray/d4ac01c4-5fcd-4207-a92e-8170046175d1.svg"></embed></figure>
