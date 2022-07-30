@@ -7,3 +7,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laureanray&theme=gruvbox"/>. 
 </p>
+
+
+
+# Links
+[Blog](https://lr.hashnode.dev)
+[Twitter](https://twitter.com/laureanray)
+[LinkedIn](https://linkedin.com/in/laureanray)
