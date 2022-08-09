@@ -4,9 +4,7 @@
   I like open source software, linux, and web [Currenly learning: System Programming]  
   Oh, I use **Neovim** btw. :wink:  
   
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laureanray&theme=gruvbox"/>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laureanray&theme=ayu-light&hide_border=true)](https://git.io/streak-stats)
 
 
 
