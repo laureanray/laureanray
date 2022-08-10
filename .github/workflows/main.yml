@@ -1,31 +1,16 @@
-name: Metrics
+name: Waka Readme
+
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: anmol098/waka-readme-stats@master
         with:
-            # Your GitHub token
-            token: ${{ secrets.METRICS_TOKEN }}
-            config_order: base.header, introduction, base.activity+community, base.repositories, followup, languages, projects, activity, stargazers, stackoverflow, achievements, gists, stars
-            plugin_languages: yes
-            plugin_followup: yes
-            plugin_achievements: yes
-            plugin_achievements_ignored: influencer, follower, maintainer, contributor, explorer, octonaut
-            plugin_lines: yes
-            plugin_stars: yes
-            plugin_stars_limit: 3
-            plugin_traffic: yes
-            plugin_habits: yes
-            plugin_habits_from: 300       
-            plugin_habits_days: 14    
-            plugin_habits_facts: yes    
-            plugin_habits_charts: yes     
-            config_timezone: Asia/Manila 
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
