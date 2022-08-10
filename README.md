@@ -6,7 +6,8 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laureanray&theme=ayu-light&hide_border=true)](https://git.io/streak-stats)
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 # Links
 [Blog](https://lr.hashnode.dev)
