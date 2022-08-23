@@ -1,7 +1,7 @@
 # Hello, I'm LR. 
 
-  I like building things during my free time [Currently learning: Golang, and lil bit of Rust]  
-  I like open source software, linux, and web [Currenly learning: System Programming]  
+  I like building things during my free time [Currently learning: Golang]  
+  I like open source software, linux, and web [Currenly learning: System Programming,DevOps]  
   Oh, I use **Neovim** btw. :wink:  
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laureanray&theme=ayu-light&hide_border=true)](https://git.io/streak-stats)
