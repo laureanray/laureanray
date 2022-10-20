@@ -1,6 +1,6 @@
 # Hello, I'm LR. 
 
-  I like building things during my free time [Currently learning: Golang, Interpeters + Compilers]  
+  I like building things during my free time [Currently learning: Golang, Interpreters + Compilers]  
   I like open source software, linux, and web technologies.
     
   I use **Neovim**.  
