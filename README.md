@@ -4,6 +4,7 @@
   I like open source software, linux, and web technologies.
     
   I use **Neovim**.  
+    
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laureanray&theme=ayu-light&hide_border=true)](https://git.io/streak-stats
 
