@@ -1,6 +1,6 @@
 # Hello, I'm LR. 
 
-  I like building things during my free time [Currently learning: Golang, Interpreters + Compilers]  
+  I like building things during my free time.  
   I like open source software, linux, and web technologies.
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laureanray&theme=ayu-light&hide_border=true)](https://git.io/streak-stats0)
