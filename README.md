@@ -4,6 +4,6 @@
   I like open source software, linux, and web technologies.
    
 # Links
-[Blog](https://blog.laureanray.com)
+[Personal Website](https://laureanray.com)
 [Twitter](https://twitter.com/laureanray)
 [LinkedIn](https://linkedin.com/in/laureanray)
