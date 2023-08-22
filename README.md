@@ -3,8 +3,9 @@
   I like building things during my free time.  
   I like open source software, linux, and web technologies.
 
-[![laureanray's GitHub | Stats](https://stats.quine.sh/laureanray/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=laureanray)
 
+[![laureanray's GitHub | Languages Over Time](https://stats.quine.sh/laureanray/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=laureanray)
+[![laureanray's GitHub | Stats](https://stats.quine.sh/laureanray/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=laureanray)
 [![laureanray's Stack Overflow | Stats](https://stats.quine.sh/laureanray/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=laureanray)
 
 # Links
